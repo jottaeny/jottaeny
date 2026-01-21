@@ -21,7 +21,7 @@
 ###
 
 <div align="left">
-  <a href="www.linkedin.com/in/antônio-juan-12295039a" target="_blank">
+  <a href="www.linkedin.com/in/antonio-juan-12295039a" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=antoniojuann07@gmail.com
