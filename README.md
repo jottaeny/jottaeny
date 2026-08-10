@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">Olá! Sou um estudante iniciante de Análise e Desenvolvimento de Sistemas, atualmente em fase de aprendizagem dos fundamentos da área de tecnologia. Estudando lógica de programação, algoritmos e conceitos básicos de desenvolvimento de software. Buscando construir uma base sólida em programação e boas práticas de desenvolvimento. Interessado em evoluir constantemente, adquirir experiência prática e conquistar a primeira oportunidade na área de TI.</p>
+<p align="left">Olá! Sou um estudante iniciante de Desenvolvimento de Sistemas, atualmente em fase de aprendizagem dos fundamentos da área de tecnologia. Estudando lógica de programação, algoritmos e conceitos básicos de desenvolvimento de software. Buscando construir uma base sólida em programação e boas práticas de desenvolvimento. Interessado em evoluir constantemente, adquirir experiência prática e conquistar a primeira oportunidade na área de TI.</p>
 
 ###
 
