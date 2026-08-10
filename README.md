@@ -8,7 +8,7 @@
 
 ###
 
-<p align="center">Student of Systems Analysis and Development</p>
+<p align="center">Student of Systems and Development</p>
 
 ###
 
